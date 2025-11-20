@@ -872,11 +872,12 @@ def main_menu():
             
         elif choice == '2':
             print("\n[+] Starting Wordlist Mode...")
-            finder = InstagramFollowersFinder()
-            finder.find_and_bruteforce_accounts_continuous(
-                delay=1.0,
-                max_bruteforce_attempts=100
-            )
+            # finder = InstagramFollowersFinder()
+            # finder.find_and_bruteforce_accounts_continuous(
+            #     delay=1.0,
+            #     max_bruteforce_attempts=100
+            # )
+            print("[+] Malas Ngoding.")
             break
             
         else:
