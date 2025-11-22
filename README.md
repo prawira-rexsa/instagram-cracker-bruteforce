@@ -13,4 +13,4 @@ note : need proxy for this tool to be more powerfull
 
 + pip install requests fake-useragent
 
-command for running bot : python instagram_bf.py
++ command for running bot : python instagram_bf.py
