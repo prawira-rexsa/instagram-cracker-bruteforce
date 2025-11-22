@@ -1,4 +1,4 @@
-# Instagram racker ruteforce
+# Instagram Bruteforce
 # For Educational Purpose
 
 This tool is used for skill testing; any negative actions intentionally committed are beyond our control.
