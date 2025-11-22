@@ -11,5 +11,6 @@ note : need proxy for this tool to be more powerfull
 1. OPEN YOUR CMD
 2. THEN INPUT HERE ON YOUR CMD 
 
-pip install requests fake-useragent
++ pip install requests fake-useragent
+
 command for running bot : python instagram_bf.py
